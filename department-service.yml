@@ -20,4 +20,7 @@ spring:
     hibernate:
       ddl-auto: update
 
+  boot:
+    value: Hello ! Department Service
+
 
