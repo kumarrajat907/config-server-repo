@@ -21,6 +21,6 @@ spring:
       ddl-auto: update
 
   boot:
-    value: Hello ! Department Service
+    value: Hello ! Department Service, Updated
 
 
