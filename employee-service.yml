@@ -16,7 +16,7 @@ spring:
     username: ${MYSQL_USER:root}
     password: ${MYSQL_PASSWORD:root}
   boot:
-    value: Hello ! Employe Service
+    value: Hello ! Employe Service , Spring cloud bus demo.
 
   jpa:
     hibernate:
