@@ -21,6 +21,6 @@ spring:
       ddl-auto: update
 
   boot:
-    value: Hello ! Department Service, Updated
+    value: Hello ! Department Service, Updated, Spring cloud bus demo.
 
 
